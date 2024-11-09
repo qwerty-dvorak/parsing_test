@@ -16,6 +16,15 @@ node_modules/
 *.test
 *.out
 
+# Ignore C compiled files
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
 # Ignore CSV files
 *.csv
 
